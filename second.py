@@ -1,3 +1,4 @@
+print("srushti")
 n = int(input("Enter input number : "))
  
 fact = 1
